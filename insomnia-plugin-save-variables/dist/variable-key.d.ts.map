@@ -1,0 +1,1 @@
+{"version":3,"file":"variable-key.d.ts","sourceRoot":"","sources":["../src/variable-key.ts"],"names":[],"mappings":"AAEA,oBAAY,gBAAgB,GAAG;IAC7B,WAAW,EAAE,MAAM,CAAA;IACnB,YAAY,EAAE,MAAM,CAAA;CACrB,CAAA;AAED,wBAAgB,cAAc,CAAC,WAAW,EAAE,MAAM,EAAE,YAAY,EAAE,MAAM,GAAG,MAAM,CAEhF;AAED,wBAAgB,gBAAgB,CAAC,GAAG,EAAE,MAAM,GAAG,gBAAgB,CAM9D"}

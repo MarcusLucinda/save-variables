@@ -1,0 +1,1 @@
+{"version":3,"file":"variable-definition.d.ts","sourceRoot":"","sources":["../../src/custom-header-format/variable-definition.ts"],"names":[],"mappings":"AAAA,oBAAY,kBAAkB,GAAG;IAC/B,YAAY,EAAE,MAAM,CAAA;IACpB,SAAS,EAAE,aAAa,CAAA;IACxB,IAAI,EAAE,MAAM,CAAA;IACZ,WAAW,EAAE,MAAM,CAAA;CACpB,CAAA;AAED,oBAAY,aAAa,GAAG,MAAM,GAAG,QAAQ,CAAA"}

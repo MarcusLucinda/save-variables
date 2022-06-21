@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-header-format.d.ts","sourceRoot":"","sources":["../../src/custom-header-format/custom-header-format.ts"],"names":[],"mappings":"AACA,OAAO,EAAiB,kBAAkB,EAAE,MAAM,uBAAuB,CAAA;AAIzE,wBAAgB,cAAc,CAAC,UAAU,EAAE,MAAM,GAAG,OAAO,CAE1D;AAED,wBAAgB,kBAAkB,CAAC,kBAAkB,EAAE,kBAAkB,GAAG,MAAM,CAMjF;AAED,wBAAgB,iBAAiB,CAAC,UAAU,EAAE,MAAM,GAAG,kBAAkB,CAQxE"}
